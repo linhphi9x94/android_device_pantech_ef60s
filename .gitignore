@@ -34,3 +34,6 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+overlay/frameworks/base/core/res/res/values/config.xml
+Android.mk
